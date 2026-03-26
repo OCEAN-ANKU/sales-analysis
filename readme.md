@@ -1,5 +1,9 @@
 # 📊 Sales Data Analysis Dashboard
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+
 ## 🚀 Features
 - Sales analysis
 - Product-wise insights
