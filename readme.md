@@ -16,3 +16,8 @@
 
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📊 Insights
+- Laptop generates highest sales
+- North region has highest profit
+- Sales are increasing month by month
